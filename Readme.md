@@ -1,8 +1,8 @@
 Given Task :
 
-Install Git on your system
-Configure your global Git username and email
-Verify installation with git --version
-Create your GitHub account
+1. Install Git on your system
+2. Configure your global Git username and email
+3. Verify installation with git --version
+4. Create your GitHub account
 
 Task Successfully Done
